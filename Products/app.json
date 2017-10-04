@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Simulate iPhone X's notch",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_xphone.png",
+    "store": "com.phongphan.simulate.x.phone"
+  },
+  {
+    "name": "Miracast - Wifi Display",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_miracast.png",
+    "store": "com.phongphan.miracast"
+  },
+  {
+    "name": "Best Hot Girl Videos",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_best_video.png",
+    "store": "com.phongphan.video.collection"
+  },
+  {
+    "name": "Color Picker",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_color_picker.png",
+    "store": "com.phongphan.color.picker"
+  },
+  {
+    "name": "Copy Share (link, content share)",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_copy_share.png",
+    "store": "com.phongphan.share.copy"
+  },
+  {
+    "name": "Vibration App",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_vibration.png",
+    "store": "com.phongphan.vibrate"
+  },
+  {
+    "name": "Root Checker (2017)",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_rootchecker.png",
+    "store": "com.phongphan.rootchecker"
+  },
+  {
+    "name": "Hide Pictures (XXX images)",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_hide_photo.png",
+    "store": "com.phongphan.hidephoto"
+  },
+  {
+    "name": "Calibration sensors",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_calibration.png",
+    "store": "com.phongphan.calibration"
+  },
+  {
+    "name": "Karaoke Viet Nam",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_karaoke.png",
+    "store": "com.phongphan.karaoke"
+  },
+  {
+    "name": "Old Phone Ringtone Collection",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_old_ringtone.png",
+    "store": "com.phongphan.oldphone.ringtone"
+  },
+  {
+    "name": "Hot Halloween Ringtones",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_halloween.png",
+    "store": "com.phongphan.halloween.ringtone"
+  },
+  {
+    "name": "Hot Christmas Ringtones",
+    "icon": "http://core-ngoanrazor.rhcloud.com/Products/ic_christmas_ringtones.png",
+    "store": "com.phongphan.christmas.ringtone"
+  }
+]
