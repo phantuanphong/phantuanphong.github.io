@@ -1,13 +1,21 @@
-[
+[	  {
+    "name": "Wifi Password Recovery",
+    "icon": "https://phantuanphong.github.io/Products/ic_recover_wifi_password.png",
+    "store": "com.ngoanrazor.recoverwifipassword"
+  },  {
+    "name": "Miracast - Wifi Display",
+    "icon": "https://phantuanphong.github.io/Products/ic_miracast.png",
+    "store": "com.phongphan.miracast"
+  },
+	  {
+    "name": "Copy Share (link, content share)",
+    "icon": "https://phantuanphong.github.io/Products/ic_copy_share.png",
+    "store": "com.phongphan.share.copy"
+  },
   {
     "name": "Simulate iPhone X's notch",
     "icon": "https://phantuanphong.github.io/Products/ic_xphone.png",
     "store": "com.phongphan.simulate.x.phone"
-  },
-  {
-    "name": "Miracast - Wifi Display",
-    "icon": "https://phantuanphong.github.io/Products/ic_miracast.png",
-    "store": "com.phongphan.miracast"
   },
   {
     "name": "Best Hot Girl Videos",
@@ -18,11 +26,6 @@
     "name": "Color Picker",
     "icon": "https://phantuanphong.github.io/Products/ic_color_picker.png",
     "store": "com.phongphan.color.picker"
-  },
-  {
-    "name": "Copy Share (link, content share)",
-    "icon": "https://phantuanphong.github.io/Products/ic_copy_share.png",
-    "store": "com.phongphan.share.copy"
   },
   {
     "name": "Vibration App",
