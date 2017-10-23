@@ -1,4 +1,12 @@
-[	  {
+[	   {
+    "name": "Karaoke Viet Nam",
+    "icon": "https://phantuanphong.github.io/Products/ic_karaoke.png",
+    "store": "com.phongphan.karaoke"
+  }, {
+    "name": "Hot Halloween Ringtones",
+    "icon": "https://phantuanphong.github.io/Products/ic_halloween.png",
+    "store": "com.phongphan.halloween.ringtone"
+  },{
     "name": "Wifi Password Recovery",
     "icon": "https://phantuanphong.github.io/Products/ic_recover_wifi_password.png",
     "store": "com.ngoanrazor.recoverwifipassword"
@@ -6,11 +14,7 @@
     "name": "Miracast - Wifi Display",
     "icon": "https://phantuanphong.github.io/Products/ic_miracast.png",
     "store": "com.phongphan.miracast"
-  },  {
-    "name": "Hot Halloween Ringtones",
-    "icon": "https://phantuanphong.github.io/Products/ic_halloween.png",
-    "store": "com.phongphan.halloween.ringtone"
-  },
+  },  
 	  {
     "name": "Copy Share (link, content share)",
     "icon": "https://phantuanphong.github.io/Products/ic_copy_share.png",
@@ -40,11 +44,6 @@
     "name": "Calibration sensors",
     "icon": "https://phantuanphong.github.io/Products/ic_calibration.png",
     "store": "com.phongphan.calibration"
-  },
-  {
-    "name": "Karaoke Viet Nam",
-    "icon": "https://phantuanphong.github.io/Products/ic_karaoke.png",
-    "store": "com.phongphan.karaoke"
   },
   {
     "name": "Old Phone Ringtone Collection",
