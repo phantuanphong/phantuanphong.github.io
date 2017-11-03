@@ -2,10 +2,6 @@
     "name": "Karaoke Viet Nam",
     "icon": "https://phantuanphong.github.io/Products/ic_karaoke.png",
     "store": "com.phongphan.karaoke"
-  }, {
-    "name": "Hot Halloween Ringtones",
-    "icon": "https://phantuanphong.github.io/Products/ic_halloween.png",
-    "store": "com.phongphan.halloween.ringtone"
   },{
     "name": "Wifi Password Recovery",
     "icon": "https://phantuanphong.github.io/Products/ic_recover_wifi_password.png",
@@ -19,6 +15,11 @@
     "name": "Copy Share (link, content share)",
     "icon": "https://phantuanphong.github.io/Products/ic_copy_share.png",
     "store": "com.phongphan.share.copy"
+  },
+  {
+    "name": "Hide Pictures (private images)",
+    "icon": "https://phantuanphong.github.io/Products/ic_hide_photo.png",
+    "store": "com.phongphan.hidephoto"
   },
   {
     "name": "Color Picker",
@@ -36,11 +37,6 @@
     "store": "com.phongphan.rootchecker"
   },
   {
-    "name": "Hide Pictures (private images)",
-    "icon": "https://phantuanphong.github.io/Products/ic_hide_photo.png",
-    "store": "com.phongphan.hidephoto"
-  },
-  {
     "name": "Calibration sensors",
     "icon": "https://phantuanphong.github.io/Products/ic_calibration.png",
     "store": "com.phongphan.calibration"
@@ -55,5 +51,9 @@
     "name": "Hot Christmas Ringtones",
     "icon": "https://phantuanphong.github.io/Products/ic_christmas_ringtones.png",
     "store": "com.phongphan.christmas.ringtone"
+  }, {
+    "name": "Hot Halloween Ringtones",
+    "icon": "https://phantuanphong.github.io/Products/ic_halloween.png",
+    "store": "com.phongphan.halloween.ringtone"
   }
 ]
