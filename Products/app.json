@@ -1,4 +1,8 @@
-[	   {
+[	 {
+    "name": "Rounded Corner",
+    "icon": "https://phantuanphong.github.io/Products/ic_rounded_corner.png",
+    "store": "com.phongphan.rounded.corner"
+  },  {
     "name": "Karaoke Viet Nam",
     "icon": "https://phantuanphong.github.io/Products/ic_karaoke.png",
     "store": "com.phongphan.karaoke"
