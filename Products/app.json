@@ -1,4 +1,8 @@
 [	 {
+    "name": "Free WIFI hotspot",
+    "icon": "https://phantuanphong.github.io/Products/ic_hotspot.png",
+    "store": "com.phongphan.wifi.hotspot"
+  },{
     "name": "Rounded Corner",
     "icon": "https://phantuanphong.github.io/Products/ic_rounded_corner.png",
     "store": "com.phongphan.rounded.corner"
