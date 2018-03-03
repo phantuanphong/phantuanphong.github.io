@@ -1,25 +1,35 @@
-[	 {
+[
+  {
     "name": "Free WIFI hotspot",
     "icon": "https://phantuanphong.github.io/Products/ic_hotspot.png",
     "store": "com.phongphan.wifi.hotspot"
-  },{
+  },
+  {
+    "name": "Bunny ear notch iPhoneX",
+    "icon": "https://phantuanphong.github.io/Products/ic_notch.png",
+    "store": "com.phongphan.notch"
+  },
+  {
     "name": "Rounded Corner",
     "icon": "https://phantuanphong.github.io/Products/ic_rounded_corner.png",
     "store": "com.phongphan.rounded.corner"
-  },  {
-    "name": "Karaoke Viet Nam",
-    "icon": "https://phantuanphong.github.io/Products/ic_karaoke.png",
-    "store": "com.phongphan.karaoke"
-  },{
+  },
+  {
+    "name": "Best Videos",
+    "icon": "https://phantuanphong.github.io/Products/ic_best_video.png",
+    "store": "com.phongphan.video.collection"
+  },
+  {
     "name": "Wifi Password Recovery",
     "icon": "https://phantuanphong.github.io/Products/ic_recover_wifi_password.png",
     "store": "com.ngoanrazor.recoverwifipassword"
-  },  {
+  },
+  {
     "name": "Miracast - Wifi Display",
     "icon": "https://phantuanphong.github.io/Products/ic_miracast.png",
     "store": "com.phongphan.miracast"
-  },  
-	  {
+  },
+  {
     "name": "Copy Share (link, content share)",
     "icon": "https://phantuanphong.github.io/Products/ic_copy_share.png",
     "store": "com.phongphan.share.copy"
@@ -30,9 +40,9 @@
     "store": "com.phongphan.hidephoto"
   },
   {
-    "name": "Color Picker",
-    "icon": "https://phantuanphong.github.io/Products/ic_color_picker.png",
-    "store": "com.phongphan.color.picker"
+    "name": "Hide App",
+    "icon": "https://phantuanphong.github.io/Products/ic_hide_app_plus.png",
+    "store": "com.phongphan.hideapp.plus"
   },
   {
     "name": "Vibration App",
@@ -54,14 +64,9 @@
     "icon": "https://phantuanphong.github.io/Products/ic_old_ringtone.png",
     "store": "com.phongphan.oldphone.ringtone"
   },
-
   {
-    "name": "Hot Christmas Ringtones",
-    "icon": "https://phantuanphong.github.io/Products/ic_christmas_ringtones.png",
-    "store": "com.phongphan.christmas.ringtone"
-  }, {
-    "name": "Hot Halloween Ringtones",
-    "icon": "https://phantuanphong.github.io/Products/ic_halloween.png",
-    "store": "com.phongphan.halloween.ringtone"
+    "name": "Bookmark Location",
+    "icon": "https://phantuanphong.github.io/Products/ic_save_location.png",
+    "store": "com.phongphan.save.share.location"
   }
 ]
