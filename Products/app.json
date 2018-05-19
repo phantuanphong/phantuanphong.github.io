@@ -1,4 +1,9 @@
 [
+  {
+    "name": "Voice Search (Search By Voice)",
+    "icon": "https://phantuanphong.github.io/Products/ic_voice_search.png",
+    "store": "com.phongphan.voicesearch"
+  },
 {
     "name": "Copy Share (link, content share)",
     "icon": "https://phantuanphong.github.io/Products/ic_copy_share.png",
