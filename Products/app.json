@@ -1,4 +1,9 @@
 [
+    {
+    "name": "Hide App - Calculator Icon",
+    "icon": "https://phantuanphong.github.io/Products/ic_happ.png",
+    "store": "com.phongphan.disableapp.icon"
+  },
   {
     "name": "Voice Search (Search By Voice)",
     "icon": "https://phantuanphong.github.io/Products/ic_voice_search.png",
