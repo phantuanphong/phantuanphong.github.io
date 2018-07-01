@@ -1,4 +1,8 @@
-[
+[  {
+    "name": "WIFI Automatic",
+    "icon": "https://phantuanphong.github.io/Products/ic_wifi_auto.png",
+    "store": "com.phongphan.wifi.auto"
+  },
       {
     "name": "Setup WIFI Router",
     "icon": "https://phantuanphong.github.io/Products/ic_setup_wifi.png",
@@ -23,11 +27,6 @@
     "name": "Free WIFI hotspot",
     "icon": "https://phantuanphong.github.io/Products/ic_hotspot.png",
     "store": "com.phongphan.wifi.hotspot"
-  },
-  {
-    "name": "Bunny ear notch iPhoneX",
-    "icon": "https://phantuanphong.github.io/Products/ic_notch.png",
-    "store": "com.phongphan.notch"
   },
   {
     "name": "Hide App",
