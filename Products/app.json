@@ -1,4 +1,8 @@
 [  {
+    "name": "Launcher For Old Age People",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
+    "store": "com.phongphan.launcher.older"
+  },{
     "name": "WIFI Automatic",
     "icon": "https://phantuanphong.github.io/Products/ic_wifi_auto.png",
     "store": "com.phongphan.wifi.auto"
