@@ -1,4 +1,8 @@
 [  {
+    "name": "App details viewer",
+    "icon": "https://phantuanphong.github.io/Products/ic_app_details.png",
+    "store": "com.phongphan.app.detail.viewer"
+  },{
     "name": "Launcher For Old Age People",
     "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
     "store": "com.phongphan.launcher.older"
