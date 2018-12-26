@@ -1,4 +1,11 @@
-[  {
+[  
+	{
+    "name": "Vibrate app with calculator icon",
+    "icon": "https://phantuanphong.github.io/Products/ic_vibrate_calculator.png",
+    "store": "com.phongphan.vibrate.calculator"
+  },
+
+	{
     "name": "App details viewer",
     "icon": "https://phantuanphong.github.io/Products/ic_app_details.png",
     "store": "com.phongphan.app.detail.viewer"
@@ -47,11 +54,6 @@
     "store": "com.ngoanrazor.recoverwifipassword"
   },
   {
-    "name": "Miracast - Wifi Display",
-    "icon": "https://phantuanphong.github.io/Products/ic_miracast.png",
-    "store": "com.phongphan.miracast"
-  },
-  {
     "name": "Hide Pictures (private images)",
     "icon": "https://phantuanphong.github.io/Products/ic_hide_photo.png",
     "store": "com.phongphan.hidephoto"
@@ -80,10 +82,5 @@
     "name": "Old Phone Ringtone Collection",
     "icon": "https://phantuanphong.github.io/Products/ic_old_ringtone.png",
     "store": "com.phongphan.oldphone.ringtone"
-  },
-  {
-    "name": "Bookmark Location",
-    "icon": "https://phantuanphong.github.io/Products/ic_save_location.png",
-    "store": "com.phongphan.save.share.location"
   }
 ]
