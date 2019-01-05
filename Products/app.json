@@ -1,6 +1,10 @@
 [  
 	{
     "name": "Vibrate app with calculator icon",
+    "icon": "https://phantuanphong.github.io/Products/ic_mhl_checker.png",
+    "store": "com.phongphan.mhl.checker"
+  },{
+    "name": "Vibrate app with calculator icon",
     "icon": "https://phantuanphong.github.io/Products/ic_vibrate_calculator.png",
     "store": "com.phongphan.vibrate.calculator"
   },
