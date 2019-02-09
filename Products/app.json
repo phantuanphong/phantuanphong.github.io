@@ -1,8 +1,8 @@
 [  
 	{
-    "name": "MHL Checker (HDMI Cable)",
-    "icon": "https://phantuanphong.github.io/Products/ic_mhl_checker.png",
-    "store": "com.phongphan.mhl.checker"
+    "name": "TV Connector Util",
+    "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
+    "store": "com.phongphan.tvconnector.utils"
   },{
     "name": "Tattoo Maker",
     "icon": "https://phantuanphong.github.io/Products/ic_tattoo.png",
@@ -75,11 +75,6 @@
     "name": "Vibration App",
     "icon": "https://phantuanphong.github.io/Products/ic_vibration.png",
     "store": "com.phongphan.vibrate"
-  },
-  {
-    "name": "Root Checker",
-    "icon": "https://phantuanphong.github.io/Products/ic_rootchecker.png",
-    "store": "com.phongphan.rootchecker"
   },
   {
     "name": "Calibration sensors",
