@@ -1,8 +1,16 @@
-[  
-	{
+[  	{
     "name": "TV Connector Util",
     "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
     "store": "com.phongphan.tvconnector.utils"
+  },
+	{
+    "name": "Wireless Charging Checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_wireless_charge.png",
+    "store": "com.phongphan.wireless.charger.checker"
+  },{
+    "name": "Launcher For Old Age People",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
+    "store": "com.phongphan.launcher.older"
   },{
     "name": "Tattoo Maker",
     "icon": "https://phantuanphong.github.io/Products/ic_tattoo.png",
@@ -17,10 +25,6 @@
     "name": "App details viewer",
     "icon": "https://phantuanphong.github.io/Products/ic_app_details.png",
     "store": "com.phongphan.app.detail.viewer"
-  },{
-    "name": "Launcher For Old Age People",
-    "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
-    "store": "com.phongphan.launcher.older"
   },{
     "name": "WIFI Automatic",
     "icon": "https://phantuanphong.github.io/Products/ic_wifi_auto.png",
