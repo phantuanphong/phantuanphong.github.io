@@ -1,4 +1,8 @@
 [  	{
+    "name": "Fake GPS Location (Best)",
+    "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
+    "store": "com.phongphan.fakegps"
+  },{
     "name": "TV Connector Util",
     "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
     "store": "com.phongphan.tvconnector.utils"
