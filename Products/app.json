@@ -1,45 +1,60 @@
-[  	{
+[
+  {
+    "name": "Contact With Large Text For Elderly (Best)",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_contact.png",
+    "store": "com.treeteam.bigcontact"
+  },
+  {
     "name": "Fake GPS Location (Best)",
     "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
     "store": "com.phongphan.fakegps"
-  },{
+  },
+  {
+    "name": "MHL Checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_mhl_checker.png",
+    "store": "com.phongphan.mhl.checker"
+  },
+  {
     "name": "TV Connector Util",
     "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
     "store": "com.phongphan.tvconnector.utils"
   },
-	{
+  {
     "name": "Wireless Charging Checker",
     "icon": "https://phantuanphong.github.io/Products/ic_wireless_charge.png",
     "store": "com.phongphan.wireless.charger.checker"
-  },{
+  },
+  {
     "name": "Launcher For Old Age People",
     "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
     "store": "com.phongphan.launcher.older"
-  },{
+  },
+  {
     "name": "Random Number - Good Luck!",
     "icon": "https://phantuanphong.github.io/Products/ic_random_number.png",
     "store": "com.phongphan.random.number"
-  },{
+  },
+  {
     "name": "Vibrate app with calculator icon",
     "icon": "https://phantuanphong.github.io/Products/ic_vibrate_calculator.png",
     "store": "com.phongphan.vibrate.calculator"
   },
-
-	{
+  {
     "name": "App details viewer",
     "icon": "https://phantuanphong.github.io/Products/ic_app_details.png",
     "store": "com.phongphan.app.detail.viewer"
-  },{
+  },
+  {
     "name": "WIFI Automatic",
     "icon": "https://phantuanphong.github.io/Products/ic_wifi_auto.png",
     "store": "com.phongphan.wifi.auto"
   },
-      {
+  {
     "name": "Setup WIFI Router",
     "icon": "https://phantuanphong.github.io/Products/ic_setup_wifi.png",
     "store": "com.phongphan.setup.wifi"
   },
-    {
+  {
     "name": "Hide App - Calculator Icon",
     "icon": "https://phantuanphong.github.io/Products/ic_happ.png",
     "store": "com.phongphan.disableapp.icon"
@@ -48,11 +63,6 @@
     "name": "Voice Search (Search By Voice)",
     "icon": "https://phantuanphong.github.io/Products/ic_voice_search.png",
     "store": "com.phongphan.voicesearch"
-  },
-{
-    "name": "Copy Share (link, content share)",
-    "icon": "https://phantuanphong.github.io/Products/ic_copy_share.png",
-    "store": "com.phongphan.share.copy"
   },
   {
     "name": "Free WIFI hotspot",
@@ -88,10 +98,5 @@
     "name": "Calibration sensors",
     "icon": "https://phantuanphong.github.io/Products/ic_calibration.png",
     "store": "com.phongphan.calibration"
-  },
-  {
-    "name": "Old Phone Ringtone Collection",
-    "icon": "https://phantuanphong.github.io/Products/ic_old_ringtone.png",
-    "store": "com.phongphan.oldphone.ringtone"
   }
 ]
