@@ -1,107 +1,112 @@
 [
-    {
-        "name": "Auto USB Tethering Setting (share internet to PC)",
-        "icon": "https://phantuanphong.github.io/Products/ic_auto_usb_tethering.png",
-        "store": "com.treeteam.auto.usb.tethering"
-    },
-    {
-        "name": "Contact With Large Text For Elderly (Best)",
-        "icon": "https://phantuanphong.github.io/Products/ic_big_contact.png",
-        "store": "com.treeteam.bigcontact"
-    },
-    {
-        "name": "Fake GPS Location (Best)",
-        "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
-        "store": "com.phongphan.fakegps"
-    },
-    {
-        "name": "MHL Checker",
-        "icon": "https://phantuanphong.github.io/Products/ic_mhl_checker.png",
-        "store": "com.phongphan.mhl.checker"
-    },
-    {
-        "name": "TV Connector Util",
-        "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
-        "store": "com.phongphan.tvconnector.utils"
-    },
-    {
-        "name": "Wireless Charging Checker",
-        "icon": "https://phantuanphong.github.io/Products/ic_wireless_charge.png",
-        "store": "com.phongphan.wireless.charger.checker"
-    },
-    {
-        "name": "Launcher For Old Age People",
-        "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
-        "store": "com.phongphan.launcher.older"
-    },
-    {
-        "name": "Random Number - Good Luck!",
-        "icon": "https://phantuanphong.github.io/Products/ic_random_number.png",
-        "store": "com.phongphan.random.number"
-    },
-    {
-        "name": "Vibrate app with calculator icon",
-        "icon": "https://phantuanphong.github.io/Products/ic_vibrate_calculator.png",
-        "store": "com.phongphan.vibrate.calculator"
-    },
-    {
-        "name": "App details viewer",
-        "icon": "https://phantuanphong.github.io/Products/ic_app_details.png",
-        "store": "com.phongphan.app.detail.viewer"
-    },
-    {
-        "name": "WIFI Automatic",
-        "icon": "https://phantuanphong.github.io/Products/ic_wifi_auto.png",
-        "store": "com.phongphan.wifi.auto"
-    },
-    {
-        "name": "Setup WIFI Router",
-        "icon": "https://phantuanphong.github.io/Products/ic_setup_wifi.png",
-        "store": "com.phongphan.setup.wifi"
-    },
-    {
-        "name": "Hide App - Calculator Icon",
-        "icon": "https://phantuanphong.github.io/Products/ic_happ.png",
-        "store": "com.phongphan.disableapp.icon"
-    },
-    {
-        "name": "Voice Search (Search By Voice)",
-        "icon": "https://phantuanphong.github.io/Products/ic_voice_search.png",
-        "store": "com.phongphan.voicesearch"
-    },
-    {
-        "name": "Free WIFI hotspot",
-        "icon": "https://phantuanphong.github.io/Products/ic_hotspot.png",
-        "store": "com.phongphan.wifi.hotspot"
-    },
-    {
-        "name": "Hide App",
-        "icon": "https://phantuanphong.github.io/Products/ic_dissableApp.png",
-        "store": "com.phongphan.disableapp"
-    },
-    {
-        "name": "Wifi Password Recovery",
-        "icon": "https://phantuanphong.github.io/Products/ic_recover_wifi_password.png",
-        "store": "com.ngoanrazor.recoverwifipassword"
-    },
-    {
-        "name": "Hide Pictures (private images)",
-        "icon": "https://phantuanphong.github.io/Products/ic_hide_photo.png",
-        "store": "com.phongphan.hidephoto"
-    },
-    {
-        "name": "Hide App +",
-        "icon": "https://phantuanphong.github.io/Products/ic_hide_app_plus.png",
-        "store": "com.phongphan.hideapp.plus"
-    },
-    {
-        "name": "Vibration App",
-        "icon": "https://phantuanphong.github.io/Products/ic_vibration.png",
-        "store": "com.phongphan.vibrate"
-    },
-    {
-        "name": "Calibration sensors",
-        "icon": "https://phantuanphong.github.io/Products/ic_calibration.png",
-        "store": "com.phongphan.calibration"
-    }
+  {
+    "name": "Auto Start Manager",
+    "icon": "https://phantuanphong.github.io/Products/ic_auto_start.png",
+    "store": "com.phongphan.auto.start.manager"
+  },
+  {
+    "name": "Auto USB Tethering Setting (share internet to PC)",
+    "icon": "https://phantuanphong.github.io/Products/ic_auto_usb_tethering.png",
+    "store": "com.treeteam.auto.usb.tethering"
+  },
+  {
+    "name": "Contact With Large Text For Elderly (Best)",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_contact.png",
+    "store": "com.treeteam.bigcontact"
+  },
+  {
+    "name": "Fake GPS Location (Best)",
+    "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
+    "store": "com.phongphan.fakegps"
+  },
+  {
+    "name": "MHL Checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_mhl_checker.png",
+    "store": "com.phongphan.mhl.checker"
+  },
+  {
+    "name": "TV Connector Util",
+    "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
+    "store": "com.phongphan.tvconnector.utils"
+  },
+  {
+    "name": "Wireless Charging Checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_wireless_charge.png",
+    "store": "com.phongphan.wireless.charger.checker"
+  },
+  {
+    "name": "Launcher For Old Age People",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
+    "store": "com.phongphan.launcher.older"
+  },
+  {
+    "name": "Random Number - Good Luck!",
+    "icon": "https://phantuanphong.github.io/Products/ic_random_number.png",
+    "store": "com.phongphan.random.number"
+  },
+  {
+    "name": "Vibrate app with calculator icon",
+    "icon": "https://phantuanphong.github.io/Products/ic_vibrate_calculator.png",
+    "store": "com.phongphan.vibrate.calculator"
+  },
+  {
+    "name": "App details viewer",
+    "icon": "https://phantuanphong.github.io/Products/ic_app_details.png",
+    "store": "com.phongphan.app.detail.viewer"
+  },
+  {
+    "name": "WIFI Automatic",
+    "icon": "https://phantuanphong.github.io/Products/ic_wifi_auto.png",
+    "store": "com.phongphan.wifi.auto"
+  },
+  {
+    "name": "Setup WIFI Router",
+    "icon": "https://phantuanphong.github.io/Products/ic_setup_wifi.png",
+    "store": "com.phongphan.setup.wifi"
+  },
+  {
+    "name": "Hide App - Calculator Icon",
+    "icon": "https://phantuanphong.github.io/Products/ic_happ.png",
+    "store": "com.phongphan.disableapp.icon"
+  },
+  {
+    "name": "Voice Search (Search By Voice)",
+    "icon": "https://phantuanphong.github.io/Products/ic_voice_search.png",
+    "store": "com.phongphan.voicesearch"
+  },
+  {
+    "name": "Free WIFI hotspot",
+    "icon": "https://phantuanphong.github.io/Products/ic_hotspot.png",
+    "store": "com.phongphan.wifi.hotspot"
+  },
+  {
+    "name": "Hide App",
+    "icon": "https://phantuanphong.github.io/Products/ic_dissableApp.png",
+    "store": "com.phongphan.disableapp"
+  },
+  {
+    "name": "Wifi Password Recovery",
+    "icon": "https://phantuanphong.github.io/Products/ic_recover_wifi_password.png",
+    "store": "com.ngoanrazor.recoverwifipassword"
+  },
+  {
+    "name": "Hide Pictures (private images)",
+    "icon": "https://phantuanphong.github.io/Products/ic_hide_photo.png",
+    "store": "com.phongphan.hidephoto"
+  },
+  {
+    "name": "Hide App +",
+    "icon": "https://phantuanphong.github.io/Products/ic_hide_app_plus.png",
+    "store": "com.phongphan.hideapp.plus"
+  },
+  {
+    "name": "Vibration App",
+    "icon": "https://phantuanphong.github.io/Products/ic_vibration.png",
+    "store": "com.phongphan.vibrate"
+  },
+  {
+    "name": "Calibration sensors",
+    "icon": "https://phantuanphong.github.io/Products/ic_calibration.png",
+    "store": "com.phongphan.calibration"
+  }
 ]
