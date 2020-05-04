@@ -1,5 +1,10 @@
 [
   {
+    "name": "Big Note For Elderly",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_note.png",
+    "store": "com.treeteam.big.note"
+  },
+  {
     "name": "Auto Start Manager",
     "icon": "https://phantuanphong.github.io/Products/ic_auto_start.png",
     "store": "com.phongphan.auto.start.manager"
@@ -48,11 +53,6 @@
     "name": "Vibrate app with calculator icon",
     "icon": "https://phantuanphong.github.io/Products/ic_vibrate_calculator.png",
     "store": "com.phongphan.vibrate.calculator"
-  },
-  {
-    "name": "App details viewer",
-    "icon": "https://phantuanphong.github.io/Products/ic_app_details.png",
-    "store": "com.phongphan.app.detail.viewer"
   },
   {
     "name": "WIFI Automatic",
