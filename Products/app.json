@@ -1,13 +1,18 @@
 [
   {
-    "name": "Big Note For Elderly",
-    "icon": "https://phantuanphong.github.io/Products/ic_big_note.png",
-    "store": "com.treeteam.big.note"
+    "name": "Share Contact",
+    "icon": "https://phantuanphong.github.io/Products/ic_share_contact.png",
+    "store": "com.treeteam.share.contact"
   },
   {
     "name": "Auto Start Manager",
     "icon": "https://phantuanphong.github.io/Products/ic_auto_start.png",
     "store": "com.phongphan.auto.start.manager"
+  },
+  {
+    "name": "Big Note",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_note.png",
+    "store": "com.treeteam.big.note"
   },
   {
     "name": "Auto USB Tethering Setting (share internet to PC)",
@@ -43,11 +48,6 @@
     "name": "Launcher For Old Age People",
     "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
     "store": "com.phongphan.launcher.older"
-  },
-  {
-    "name": "Random Number - Good Luck!",
-    "icon": "https://phantuanphong.github.io/Products/ic_random_number.png",
-    "store": "com.phongphan.random.number"
   },
   {
     "name": "Vibrate app with calculator icon",
