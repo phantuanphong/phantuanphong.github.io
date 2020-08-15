@@ -1,5 +1,10 @@
 [
   {
+    "name": "GPS Viewer",
+    "icon": "https://phantuanphong.github.io/Products/ic_gps_viewer.png",
+    "store": "com.treeteam.gps.viewer"
+  },
+  {
     "name": "Share Contact",
     "icon": "https://phantuanphong.github.io/Products/ic_share_contact.png",
     "store": "com.treeteam.share.contact"
