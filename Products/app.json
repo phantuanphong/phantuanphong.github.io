@@ -1,5 +1,10 @@
 [
   {
+    "name": "Shake Music Controller",
+    "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
+    "store": "com.treeteam.shake.music"
+  },
+  {
     "name": "GPS Viewer",
     "icon": "https://phantuanphong.github.io/Products/ic_gps_viewer.png",
     "store": "com.treeteam.gps.viewer"
