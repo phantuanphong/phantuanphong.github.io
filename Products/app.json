@@ -1,5 +1,10 @@
 [
   {
+    "name": "Zombie Shooter - New Game",
+    "icon": "https://phantuanphong.github.io/Products/ic_zombie_shooter.png",
+    "store": "com.treeteam.zombieshooter"
+  },
+  {
     "name": "Shake Music Controller",
     "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
     "store": "com.treeteam.shake.music"
