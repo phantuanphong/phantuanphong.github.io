@@ -1,11 +1,10 @@
 [
-	  {
+  {
     "name": "Sleep Music Timer",
     "icon": "https://phantuanphong.github.io/Products/ic_sleep_timer.png",
     "store": "com.treeteam.sleep.music.timer"
   },
-
-	  {
+  {
     "name": "Shake Music Controller",
     "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
     "store": "com.treeteam.shake.music"
@@ -15,7 +14,6 @@
     "icon": "https://phantuanphong.github.io/Products/ic_zombie_shooter.png",
     "store": "com.treeteam.zombieshooter"
   },
-
   {
     "name": "GPS Viewer",
     "icon": "https://phantuanphong.github.io/Products/ic_gps_viewer.png",
