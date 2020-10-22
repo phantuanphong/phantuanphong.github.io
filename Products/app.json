@@ -1,5 +1,10 @@
 [
   {
+    "name": "Get APK Tool",
+    "icon": "https://phantuanphong.github.io/Products/ic_get_apk_tool.png",
+    "store": "com.treeteam.getapk"
+  },
+  {
     "name": "Sleep Music Timer",
     "icon": "https://phantuanphong.github.io/Products/ic_sleep_timer.png",
     "store": "com.treeteam.sleep.music.timer"
@@ -15,6 +20,11 @@
     "store": "com.treeteam.zombieshooter"
   },
   {
+    "name": "Fake GPS Location (Best)",
+    "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
+    "store": "com.phongphan.fakegps"
+  },
+  {
     "name": "GPS Viewer",
     "icon": "https://phantuanphong.github.io/Products/ic_gps_viewer.png",
     "store": "com.treeteam.gps.viewer"
@@ -25,14 +35,14 @@
     "store": "com.treeteam.share.contact"
   },
   {
+    "name": "Contact With Large Text For Elderly (Best)",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_contact.png",
+    "store": "com.treeteam.bigcontact"
+  },
+  {
     "name": "Auto Start Manager",
     "icon": "https://phantuanphong.github.io/Products/ic_auto_start.png",
     "store": "com.phongphan.auto.start.manager"
-  },
-  {
-    "name": "Big Note",
-    "icon": "https://phantuanphong.github.io/Products/ic_big_note.png",
-    "store": "com.treeteam.big.note"
   },
   {
     "name": "Auto USB Tethering Setting (share internet to PC)",
@@ -40,14 +50,9 @@
     "store": "com.treeteam.usb.tethering"
   },
   {
-    "name": "Contact With Large Text For Elderly (Best)",
-    "icon": "https://phantuanphong.github.io/Products/ic_big_contact.png",
-    "store": "com.treeteam.bigcontact"
-  },
-  {
-    "name": "Fake GPS Location (Best)",
-    "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
-    "store": "com.phongphan.fakegps"
+    "name": "Big Note",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_note.png",
+    "store": "com.treeteam.big.note"
   },
   {
     "name": "MHL Checker",
