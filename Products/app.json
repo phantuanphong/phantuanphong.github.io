@@ -1,5 +1,10 @@
 [
   {
+    "name": "Best Compass Viewer",
+    "icon": "https://phantuanphong.github.io/Products/ic_compass.png",
+    "store": "com.treeteam.compass"
+  },
+  {
     "name": "Auto Headphone",
     "icon": "https://phantuanphong.github.io/Products/ic_auto_headphone.png",
     "store": "com.treeteam.auto.headphone"
@@ -18,11 +23,6 @@
     "name": "Shake Music Controller",
     "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
     "store": "com.treeteam.shake.music"
-  },
-  {
-    "name": "Zombie Shooter - New Game",
-    "icon": "https://phantuanphong.github.io/Products/ic_zombie_shooter.png",
-    "store": "com.treeteam.zombieshooter"
   },
   {
     "name": "Fake GPS Location (Best)",
