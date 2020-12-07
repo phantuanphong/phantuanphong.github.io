@@ -1,10 +1,5 @@
 [
   {
-    "name": "Best Compass Viewer",
-    "icon": "https://phantuanphong.github.io/Products/ic_compass.png",
-    "store": "com.treeteam.compass"
-  },
-  {
     "name": "Auto Headphone",
     "icon": "https://phantuanphong.github.io/Products/ic_auto_headphone.png",
     "store": "com.treeteam.auto.headphone"
@@ -13,6 +8,11 @@
     "name": "Get APK Tool",
     "icon": "https://phantuanphong.github.io/Products/ic_get_apk_tool.png",
     "store": "com.treeteam.getapk"
+  },
+  {
+    "name": "Best Compass Viewer",
+    "icon": "https://phantuanphong.github.io/Products/ic_compass.png",
+    "store": "com.treeteam.compass"
   },
   {
     "name": "Sleep Music Timer",
