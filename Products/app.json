@@ -1,5 +1,10 @@
 [
   {
+    "name": "BLE Checker - Bluetooth Low Energy",
+    "icon": "https://phantuanphong.github.io/Products/ic_ble_checker.png",
+    "store": "com.treeteam.blechecker"
+  },
+  {
     "name": "Auto Headphone",
     "icon": "https://phantuanphong.github.io/Products/ic_auto_headphone.png",
     "store": "com.treeteam.auto.headphone"
