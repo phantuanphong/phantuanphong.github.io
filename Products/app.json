@@ -1,5 +1,10 @@
 [
   {
+    "name": "USB OTG Checker - Check USB OTG",
+    "icon": "https://phantuanphong.github.io/Products/ic_otg_checker.png",
+    "store": "com.treeteam.otgchecker"
+  },
+  {
     "name": "BLE Checker - Bluetooth Low Energy",
     "icon": "https://phantuanphong.github.io/Products/ic_ble_checker.png",
     "store": "com.treeteam.blechecker"
