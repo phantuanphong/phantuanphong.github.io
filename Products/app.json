@@ -1,5 +1,10 @@
 [
   {
+    "name": "NFC Checker - Check NFC",
+    "icon": "https://phantuanphong.github.io/Products/ic_nfc_checker.png",
+    "store": "com.treeteam.nfcchecker"
+  },
+  {
     "name": "USB OTG Checker - Check USB OTG",
     "icon": "https://phantuanphong.github.io/Products/ic_otg_checker.png",
     "store": "com.treeteam.otgchecker"
