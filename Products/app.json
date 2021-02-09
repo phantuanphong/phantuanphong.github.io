@@ -1,5 +1,10 @@
 [
   {
+    "name": "Barometer Checker - Check Barometer Sensor",
+    "icon": "https://phantuanphong.github.io/Products/ic_barometer_checker.png",
+    "store": "com.treeteam.barometer.checker"
+  },
+  {
     "name": "NFC Checker - Check NFC",
     "icon": "https://phantuanphong.github.io/Products/ic_nfc_checker.png",
     "store": "com.treeteam.nfcchecker"
