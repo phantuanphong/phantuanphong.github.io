@@ -1,1 +1,167 @@
-[{"store":"com.treeteam.game.quick.math","icon":"https://phantuanphong.github.io/Products/ic_quick_math.png","name":"Quick Math Game - Have Fun!"},{"name":"Barometer Checker - Check Barometer Sensor","icon":"https://phantuanphong.github.io/Products/ic_barometer_checker.png","store":"com.treeteam.barometer.checker"},{"name":"NFC Checker - Check NFC","icon":"https://phantuanphong.github.io/Products/ic_nfc_checker.png","store":"com.treeteam.nfcchecker"},{"name":"USB OTG Checker - Check USB OTG","icon":"https://phantuanphong.github.io/Products/ic_otg_checker.png","store":"com.treeteam.otgchecker"},{"name":"BLE Checker - Bluetooth Low Energy","icon":"https://phantuanphong.github.io/Products/ic_ble_checker.png","store":"com.treeteam.blechecker"},{"name":"Auto Headphone","icon":"https://phantuanphong.github.io/Products/ic_auto_headphone.png","store":"com.treeteam.auto.headphone"},{"name":"Get APK Tool","icon":"https://phantuanphong.github.io/Products/ic_get_apk_tool.png","store":"com.treeteam.getapk"},{"name":"Best Compass Viewer","icon":"https://phantuanphong.github.io/Products/ic_compass.png","store":"com.treeteam.compass"},{"name":"Sleep Music Timer","icon":"https://phantuanphong.github.io/Products/ic_sleep_timer.png","store":"com.treeteam.sleep.music.timer"},{"name":"Shake Music Controller","icon":"https://phantuanphong.github.io/Products/ic_shake_music.png","store":"com.treeteam.shake.music"},{"name":"Fake GPS Location (Best)","icon":"https://phantuanphong.github.io/Products/ic_fake_gps.png","store":"com.phongphan.fakegps"},{"name":"GPS Viewer","icon":"https://phantuanphong.github.io/Products/ic_gps_viewer.png","store":"com.treeteam.gps.viewer"},{"name":"Share Contact","icon":"https://phantuanphong.github.io/Products/ic_share_contact.png","store":"com.treeteam.share.contact"},{"name":"Contact With Large Text For Elderly (Best)","icon":"https://phantuanphong.github.io/Products/ic_big_contact.png","store":"com.treeteam.bigcontact"},{"name":"Auto Start Manager","icon":"https://phantuanphong.github.io/Products/ic_auto_start.png","store":"com.phongphan.auto.start.manager"},{"name":"Auto USB Tethering Setting (share internet to PC)","icon":"https://phantuanphong.github.io/Products/ic_auto_usb_tethering.png","store":"com.treeteam.usb.tethering"},{"name":"Big Note","icon":"https://phantuanphong.github.io/Products/ic_big_note.png","store":"com.treeteam.big.note"},{"name":"MHL Checker","icon":"https://phantuanphong.github.io/Products/ic_mhl_checker.png","store":"com.phongphan.mhl.checker"},{"name":"TV Connector Util","icon":"https://phantuanphong.github.io/Products/ic_tv_utils.png","store":"com.phongphan.tvconnector.utils"},{"name":"Wireless Charging Checker","icon":"https://phantuanphong.github.io/Products/ic_wireless_charge.png","store":"com.phongphan.wireless.charger.checker"},{"name":"Launcher For Old Age People","icon":"https://phantuanphong.github.io/Products/ic_big_launcher.png","store":"com.phongphan.launcher.older"},{"name":"Vibrate app with calculator icon","icon":"https://phantuanphong.github.io/Products/ic_vibrate_calculator.png","store":"com.phongphan.vibrate.calculator"},{"name":"WIFI Automatic","icon":"https://phantuanphong.github.io/Products/ic_wifi_auto.png","store":"com.phongphan.wifi.auto"},{"name":"Setup WIFI Router","icon":"https://phantuanphong.github.io/Products/ic_setup_wifi.png","store":"com.phongphan.setup.wifi"},{"name":"Hide App - Calculator Icon","icon":"https://phantuanphong.github.io/Products/ic_happ.png","store":"com.phongphan.disableapp.icon"},{"name":"Voice Search (Search By Voice)","icon":"https://phantuanphong.github.io/Products/ic_voice_search.png","store":"com.phongphan.voicesearch"},{"name":"Free WIFI hotspot","icon":"https://phantuanphong.github.io/Products/ic_hotspot.png","store":"com.phongphan.wifi.hotspot"},{"name":"Hide App","icon":"https://phantuanphong.github.io/Products/ic_dissableApp.png","store":"com.phongphan.disableapp"},{"name":"Wifi Password Recovery","icon":"https://phantuanphong.github.io/Products/ic_recover_wifi_password.png","store":"com.ngoanrazor.recoverwifipassword"},{"name":"Hide Pictures (private images)","icon":"https://phantuanphong.github.io/Products/ic_hide_photo.png","store":"com.phongphan.hidephoto"},{"name":"Hide App +","icon":"https://phantuanphong.github.io/Products/ic_hide_app_plus.png","store":"com.phongphan.hideapp.plus"},{"name":"Vibration App","icon":"https://phantuanphong.github.io/Products/ic_vibration.png","store":"com.phongphan.vibrate"},{"name":"Calibration sensors","icon":"https://phantuanphong.github.io/Products/ic_calibration.png","store":"com.phongphan.calibration"}]
+[
+  {
+    "store": "com.treeteam.ntp.time",
+    "icon": "https://phantuanphong.github.io/Products/ic_ntp_time.png",
+    "name": "NTP Time - Internet Time"
+  },
+  {
+    "name": "Barometer Checker - Check Barometer Sensor",
+    "icon": "https://phantuanphong.github.io/Products/ic_barometer_checker.png",
+    "store": "com.treeteam.barometer.checker"
+  },
+  {
+    "name": "NFC Checker - Check NFC",
+    "icon": "https://phantuanphong.github.io/Products/ic_nfc_checker.png",
+    "store": "com.treeteam.nfcchecker"
+  },
+  {
+    "name": "USB OTG Checker - Check USB OTG",
+    "icon": "https://phantuanphong.github.io/Products/ic_otg_checker.png",
+    "store": "com.treeteam.otgchecker"
+  },
+  {
+    "name": "BLE Checker - Bluetooth Low Energy",
+    "icon": "https://phantuanphong.github.io/Products/ic_ble_checker.png",
+    "store": "com.treeteam.blechecker"
+  },
+  {
+    "name": "Auto Headphone",
+    "icon": "https://phantuanphong.github.io/Products/ic_auto_headphone.png",
+    "store": "com.treeteam.auto.headphone"
+  },
+  {
+    "name": "Get APK Tool",
+    "icon": "https://phantuanphong.github.io/Products/ic_get_apk_tool.png",
+    "store": "com.treeteam.getapk"
+  },
+  {
+    "name": "Best Compass Viewer",
+    "icon": "https://phantuanphong.github.io/Products/ic_compass.png",
+    "store": "com.treeteam.compass"
+  },
+  {
+    "name": "Sleep Music Timer",
+    "icon": "https://phantuanphong.github.io/Products/ic_sleep_timer.png",
+    "store": "com.treeteam.sleep.music.timer"
+  },
+  {
+    "name": "Shake Music Controller",
+    "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
+    "store": "com.treeteam.shake.music"
+  },
+  {
+    "name": "Fake GPS Location (Best)",
+    "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
+    "store": "com.phongphan.fakegps"
+  },
+  {
+    "name": "GPS Viewer",
+    "icon": "https://phantuanphong.github.io/Products/ic_gps_viewer.png",
+    "store": "com.treeteam.gps.viewer"
+  },
+  {
+    "name": "Share Contact",
+    "icon": "https://phantuanphong.github.io/Products/ic_share_contact.png",
+    "store": "com.treeteam.share.contact"
+  },
+  {
+    "name": "Contact With Large Text For Elderly (Best)",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_contact.png",
+    "store": "com.treeteam.bigcontact"
+  },
+  {
+    "name": "Auto Start Manager",
+    "icon": "https://phantuanphong.github.io/Products/ic_auto_start.png",
+    "store": "com.phongphan.auto.start.manager"
+  },
+  {
+    "name": "Auto USB Tethering Setting (share internet to PC)",
+    "icon": "https://phantuanphong.github.io/Products/ic_auto_usb_tethering.png",
+    "store": "com.treeteam.usb.tethering"
+  },
+  {
+    "name": "Big Note",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_note.png",
+    "store": "com.treeteam.big.note"
+  },
+  {
+    "name": "MHL Checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_mhl_checker.png",
+    "store": "com.phongphan.mhl.checker"
+  },
+  {
+    "name": "TV Connector Util",
+    "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
+    "store": "com.phongphan.tvconnector.utils"
+  },
+  {
+    "name": "Wireless Charging Checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_wireless_charge.png",
+    "store": "com.phongphan.wireless.charger.checker"
+  },
+  {
+    "name": "Launcher For Old Age People",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
+    "store": "com.phongphan.launcher.older"
+  },
+  {
+    "name": "Vibrate app with calculator icon",
+    "icon": "https://phantuanphong.github.io/Products/ic_vibrate_calculator.png",
+    "store": "com.phongphan.vibrate.calculator"
+  },
+  {
+    "name": "WIFI Automatic",
+    "icon": "https://phantuanphong.github.io/Products/ic_wifi_auto.png",
+    "store": "com.phongphan.wifi.auto"
+  },
+  {
+    "name": "Setup WIFI Router",
+    "icon": "https://phantuanphong.github.io/Products/ic_setup_wifi.png",
+    "store": "com.phongphan.setup.wifi"
+  },
+  {
+    "name": "Hide App - Calculator Icon",
+    "icon": "https://phantuanphong.github.io/Products/ic_happ.png",
+    "store": "com.phongphan.disableapp.icon"
+  },
+  {
+    "name": "Voice Search (Search By Voice)",
+    "icon": "https://phantuanphong.github.io/Products/ic_voice_search.png",
+    "store": "com.phongphan.voicesearch"
+  },
+  {
+    "name": "Free WIFI hotspot",
+    "icon": "https://phantuanphong.github.io/Products/ic_hotspot.png",
+    "store": "com.phongphan.wifi.hotspot"
+  },
+  {
+    "name": "Hide App",
+    "icon": "https://phantuanphong.github.io/Products/ic_dissableApp.png",
+    "store": "com.phongphan.disableapp"
+  },
+  {
+    "name": "Wifi Password Recovery",
+    "icon": "https://phantuanphong.github.io/Products/ic_recover_wifi_password.png",
+    "store": "com.ngoanrazor.recoverwifipassword"
+  },
+  {
+    "name": "Hide Pictures (private images)",
+    "icon": "https://phantuanphong.github.io/Products/ic_hide_photo.png",
+    "store": "com.phongphan.hidephoto"
+  },
+  {
+    "name": "Hide App +",
+    "icon": "https://phantuanphong.github.io/Products/ic_hide_app_plus.png",
+    "store": "com.phongphan.hideapp.plus"
+  },
+  {
+    "name": "Vibration App",
+    "icon": "https://phantuanphong.github.io/Products/ic_vibration.png",
+    "store": "com.phongphan.vibrate"
+  },
+  {
+    "name": "Calibration sensors",
+    "icon": "https://phantuanphong.github.io/Products/ic_calibration.png",
+    "store": "com.phongphan.calibration"
+  }
+]
