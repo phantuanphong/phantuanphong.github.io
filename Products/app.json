@@ -1,5 +1,10 @@
 [
   {
+    "store": "com.treeteam.bluetooth.scanner",
+    "icon": "https://phantuanphong.github.io/Products/ic_bluetooth_scanner.png",
+    "name": "Bluetooth Scanner"
+  },
+  {
     "store": "com.treeteam.ntp.time",
     "icon": "https://phantuanphong.github.io/Products/ic_ntp_time.png",
     "name": "NTP Time - Internet Time"
