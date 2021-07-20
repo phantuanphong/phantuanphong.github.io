@@ -1,5 +1,10 @@
 [
   {
+    "store": "com.treeteam.videotogif",
+    "icon": "https://phantuanphong.github.io/Products/ic_video2gif.png",
+    "name": "Video To GIF Converter"
+  },
+  {
     "store": "com.treeteam.bluetooth.scanner",
     "icon": "https://phantuanphong.github.io/Products/ic_bluetooth_scanner.png",
     "name": "Bluetooth Scanner"
