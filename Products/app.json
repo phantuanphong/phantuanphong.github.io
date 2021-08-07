@@ -1,5 +1,10 @@
 [
   {
+    "store": "com.phongphan.oldphone.ringtone",
+    "icon": "https://phantuanphong.github.io/Products/ic_old_ringtone.png",
+    "name": "Old Phone Ringtone Collection"
+  },
+  {
     "store": "com.treeteam.videotogif",
     "icon": "https://phantuanphong.github.io/Products/ic_video2gif.png",
     "name": "Video To GIF Converter"
