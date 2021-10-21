@@ -1,8 +1,8 @@
 [
   {
-    "store": "com.treeteam.speaker.cleaner",
-    "icon": "https://phantuanphong.github.io/Products/ic_speaker_cleaner.png",
-    "name": "Speaker Cleaner"
+    "store": "com.treeteam.voice.changer",
+    "icon": "https://phantuanphong.github.io/Products/ic_voice_changer.png",
+    "name": "Voice Changer - Voice Effect"
   },
   {
     "store": "com.phongphan.oldphone.ringtone",
