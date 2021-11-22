@@ -1,5 +1,10 @@
 [
   {
+    "store": "com.treeteam.reverse.video",
+    "icon": "https://phantuanphong.github.io/Products/ic_reverse_video.png",
+    "name": "Reverse Video - Make Magic Video"
+  },
+  {
     "store": "com.treeteam.voice.changer",
     "icon": "https://phantuanphong.github.io/Products/ic_voice_changer.png",
     "name": "Voice Changer - Voice Effect"
@@ -8,11 +13,6 @@
     "store": "com.phongphan.oldphone.ringtone",
     "icon": "https://phantuanphong.github.io/Products/ic_old_ringtone.png",
     "name": "Old Phone Ringtone Collection"
-  },
-  {
-    "store": "com.treeteam.videotogif",
-    "icon": "https://phantuanphong.github.io/Products/ic_video2gif.png",
-    "name": "Video To GIF Converter"
   },
   {
     "store": "com.treeteam.bluetooth.scanner",
