@@ -1,4 +1,9 @@
-[  
+[    
+  {
+    "store": "com.treeteam.headphone.battery",
+    "icon": "https://phantuanphong.github.io/Products/ic_headphone_battery.png",
+    "name": "Display Bluetooth Headphone Battery"
+  },
   {
     "store": "com.treeteam.wifi.checker",
     "icon": "https://phantuanphong.github.io/Products/ic_wifi_checker.png",
