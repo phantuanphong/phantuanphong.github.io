@@ -1,4 +1,9 @@
-[    
+[
+  {
+    "store": "com.treeteam.heartrate.checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_heart_rate.png",
+    "name": "Heart Rate Feature Checker"
+  },
   {
     "store": "com.treeteam.headphone.battery",
     "icon": "https://phantuanphong.github.io/Products/ic_headphone_battery.png",
@@ -158,11 +163,6 @@
     "name": "Wifi Password Recovery",
     "icon": "https://phantuanphong.github.io/Products/ic_recover_wifi_password.png",
     "store": "com.ngoanrazor.recoverwifipassword"
-  },
-  {
-    "name": "Hide Pictures (private images)",
-    "icon": "https://phantuanphong.github.io/Products/ic_hide_photo.png",
-    "store": "com.phongphan.hidephoto"
   },
   {
     "name": "Calibration sensors",
