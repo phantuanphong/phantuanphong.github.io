@@ -1,5 +1,10 @@
 [
   {
+    "name": "Charger Sound",
+    "icon": "https://phantuanphong.github.io/Products/ic_charger_sound.png",
+    "store": "com.treeteam.charger.sound"
+  },
+  {
     "name": "Biometrics Feature Checker",
     "icon": "https://phantuanphong.github.io/Products/ic_biometric.png",
     "store": "com.treeteam.biometric"
