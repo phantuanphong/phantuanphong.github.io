@@ -1,8 +1,38 @@
 [
   {
+    "name": "MHL Checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_mhl_checker.png",
+    "store": "com.phongphan.mhl.checker"
+  },
+  {
+    "name": "Vibrate app with calculator icon",
+    "icon": "https://phantuanphong.github.io/Products/ic_vibrate_calculator.png",
+    "store": "com.phongphan.vibrate.calculator"
+  },
+  {
+    "name": "NFC Checker - Check NFC",
+    "icon": "https://phantuanphong.github.io/Products/ic_nfc_checker.png",
+    "store": "com.treeteam.nfcchecker"
+  },
+  {
+    "store": "com.treeteam.voice.changer",
+    "icon": "https://phantuanphong.github.io/Products/ic_voice_changer.png",
+    "name": "Voice Changer - Voice Effect"
+  },
+  {
+    "store": "com.phongphan.oldphone.ringtone",
+    "icon": "https://phantuanphong.github.io/Products/ic_old_ringtone.png",
+    "name": "Old Phone Ringtone Collection"
+  },
+  {
     "name": "Charger Sound",
     "icon": "https://phantuanphong.github.io/Products/ic_charger_sound.png",
     "store": "com.treeteam.charger.sound"
+  },
+  {
+    "name": "Shake Music Controller",
+    "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
+    "store": "com.treeteam.shake.music"
   },
   {
     "name": "Biometrics Feature Checker",
@@ -35,16 +65,6 @@
     "name": "Make Magic Video"
   },
   {
-    "store": "com.treeteam.voice.changer",
-    "icon": "https://phantuanphong.github.io/Products/ic_voice_changer.png",
-    "name": "Voice Changer - Voice Effect"
-  },
-  {
-    "store": "com.phongphan.oldphone.ringtone",
-    "icon": "https://phantuanphong.github.io/Products/ic_old_ringtone.png",
-    "name": "Old Phone Ringtone Collection"
-  },
-  {
     "store": "com.treeteam.bluetooth.scanner",
     "icon": "https://phantuanphong.github.io/Products/ic_bluetooth_scanner.png",
     "name": "Bluetooth Scanner"
@@ -58,11 +78,6 @@
     "name": "Barometer Checker - Check Barometer Sensor",
     "icon": "https://phantuanphong.github.io/Products/ic_barometer_checker.png",
     "store": "com.treeteam.barometer.checker"
-  },
-  {
-    "name": "NFC Checker - Check NFC",
-    "icon": "https://phantuanphong.github.io/Products/ic_nfc_checker.png",
-    "store": "com.treeteam.nfcchecker"
   },
   {
     "name": "USB OTG Checker - Check USB OTG",
@@ -90,11 +105,6 @@
     "store": "com.treeteam.sleep.music.timer"
   },
   {
-    "name": "Shake Music Controller",
-    "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
-    "store": "com.treeteam.shake.music"
-  },
-  {
     "name": "Fake GPS Location (Best)",
     "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
     "store": "com.phongphan.fakegps"
@@ -120,11 +130,6 @@
     "store": "com.treeteam.usb.tethering"
   },
   {
-    "name": "MHL Checker",
-    "icon": "https://phantuanphong.github.io/Products/ic_mhl_checker.png",
-    "store": "com.phongphan.mhl.checker"
-  },
-  {
     "name": "TV Connector Util",
     "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
     "store": "com.phongphan.tvconnector.utils"
@@ -138,11 +143,6 @@
     "name": "Launcher For Old Age People",
     "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
     "store": "com.phongphan.launcher.older"
-  },
-  {
-    "name": "Vibrate app with calculator icon",
-    "icon": "https://phantuanphong.github.io/Products/ic_vibrate_calculator.png",
-    "store": "com.phongphan.vibrate.calculator"
   },
   {
     "name": "WIFI Automatic",
