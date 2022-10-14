@@ -1,8 +1,8 @@
 [
   {
-    "name": "Document Scanner - Create PDF",
-    "icon": "https://phantuanphong.github.io/Products/ic_document_scanner.png",
-    "store": "com.treeteam.document.scanner"
+    "name": "PDF Creator - Create PDF doc",
+    "icon": "https://phantuanphong.github.io/Products/ic_pdf_creator.png",
+    "store": "com.treeteam.pdf.creator"
   },
   {
     "name": "MHL Checker",
