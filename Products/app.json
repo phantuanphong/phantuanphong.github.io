@@ -1,8 +1,8 @@
 [
   {
-    "name": "PDF Creator - Create PDF doc",
-    "icon": "https://phantuanphong.github.io/Products/ic_pdf_creator.png",
-    "store": "com.treeteam.pdf.creator"
+    "name": "Camera AR Feature Checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_camera_ar.png",
+    "store": "com.treeteam.camera.ar.checker"
   },
   {
     "name": "MHL Checker",
