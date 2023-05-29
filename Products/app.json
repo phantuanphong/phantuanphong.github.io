@@ -1,8 +1,18 @@
 [
   {
-    "name": "Camera AR Feature Checker",
-    "icon": "https://phantuanphong.github.io/Products/ic_camera_ar.png",
-    "store": "com.treeteam.camera.ar.checker"
+    "name": "Voice Memo - Note By Voice",
+    "icon": "https://phantuanphong.github.io/Products/ic_voice_memo.png",
+    "store": "com.treeteam.voice.memo"
+  },
+  {
+    "name": "TV Connector Util",
+    "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
+    "store": "com.phongphan.tvconnector.utils"
+  },
+  {
+    "name": "Wireless Charging Checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_wireless_charge.png",
+    "store": "com.phongphan.wireless.charger.checker"
   },
   {
     "name": "MHL Checker",
@@ -15,59 +25,14 @@
     "store": "com.phongphan.vibrate.calculator"
   },
   {
-    "name": "NFC Checker - Check NFC",
-    "icon": "https://phantuanphong.github.io/Products/ic_nfc_checker.png",
-    "store": "com.treeteam.nfcchecker"
-  },
-  {
-    "store": "com.treeteam.voice.changer",
-    "icon": "https://phantuanphong.github.io/Products/ic_voice_changer.png",
-    "name": "Voice Changer - Voice Effect"
-  },
-  {
-    "store": "com.phongphan.oldphone.ringtone",
-    "icon": "https://phantuanphong.github.io/Products/ic_old_ringtone.png",
-    "name": "Old Phone Ringtone Collection"
-  },
-  {
-    "name": "Charger Sound",
-    "icon": "https://phantuanphong.github.io/Products/ic_charger_sound.png",
-    "store": "com.treeteam.charger.sound"
-  },
-  {
     "name": "Shake Music Controller",
     "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
     "store": "com.treeteam.shake.music"
   },
   {
-    "name": "Biometrics Feature Checker",
-    "icon": "https://phantuanphong.github.io/Products/ic_biometric.png",
-    "store": "com.treeteam.biometric"
-  },
-  {
     "name": "Auto Headphone",
     "icon": "https://phantuanphong.github.io/Products/ic_auto_headphone.png",
     "store": "com.treeteam.auto.headphone"
-  },
-  {
-    "store": "com.treeteam.vibrate.stronger",
-    "icon": "https://phantuanphong.github.io/Products/ic_sms_vibrate_stronger.png",
-    "name": "Make Vibrate Of SMS Stronger"
-  },
-  {
-    "store": "com.treeteam.headphone.battery",
-    "icon": "https://phantuanphong.github.io/Products/ic_headphone_battery.png",
-    "name": "Display Bluetooth Headphone Battery"
-  },
-  {
-    "store": "com.treeteam.wifi.checker",
-    "icon": "https://phantuanphong.github.io/Products/ic_wifi_checker.png",
-    "name": "WIFI 5G Checker"
-  },
-  {
-    "store": "com.treeteam.reverse.video",
-    "icon": "https://phantuanphong.github.io/Products/ic_reverse_video.png",
-    "name": "Make Magic Video"
   },
   {
     "store": "com.treeteam.bluetooth.scanner",
@@ -80,29 +45,14 @@
     "name": "NTP Time - Internet Time"
   },
   {
-    "name": "Barometer Checker - Check Barometer Sensor",
-    "icon": "https://phantuanphong.github.io/Products/ic_barometer_checker.png",
-    "store": "com.treeteam.barometer.checker"
-  },
-  {
     "name": "USB OTG Checker - Check USB OTG",
     "icon": "https://phantuanphong.github.io/Products/ic_otg_checker.png",
     "store": "com.treeteam.otgchecker"
   },
   {
-    "name": "BLE Checker - Bluetooth Low Energy",
-    "icon": "https://phantuanphong.github.io/Products/ic_ble_checker.png",
-    "store": "com.treeteam.blechecker"
-  },
-  {
     "name": "Get APK Tool",
     "icon": "https://phantuanphong.github.io/Products/ic_get_apk_tool.png",
     "store": "com.treeteam.getapk"
-  },
-  {
-    "name": "Best Compass Viewer",
-    "icon": "https://phantuanphong.github.io/Products/ic_compass.png",
-    "store": "com.treeteam.compass"
   },
   {
     "name": "Sleep Music Timer",
@@ -113,11 +63,6 @@
     "name": "Fake GPS Location (Best)",
     "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
     "store": "com.phongphan.fakegps"
-  },
-  {
-    "name": "GPS Viewer",
-    "icon": "https://phantuanphong.github.io/Products/ic_gps_viewer.png",
-    "store": "com.treeteam.gps.viewer"
   },
   {
     "name": "Share Contact",
@@ -135,39 +80,9 @@
     "store": "com.treeteam.usb.tethering"
   },
   {
-    "name": "TV Connector Util",
-    "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
-    "store": "com.phongphan.tvconnector.utils"
-  },
-  {
-    "name": "Wireless Charging Checker",
-    "icon": "https://phantuanphong.github.io/Products/ic_wireless_charge.png",
-    "store": "com.phongphan.wireless.charger.checker"
-  },
-  {
-    "name": "Launcher For Old Age People",
-    "icon": "https://phantuanphong.github.io/Products/ic_big_launcher.png",
-    "store": "com.phongphan.launcher.older"
-  },
-  {
-    "name": "WIFI Automatic",
-    "icon": "https://phantuanphong.github.io/Products/ic_wifi_auto.png",
-    "store": "com.phongphan.wifi.auto"
-  },
-  {
     "name": "Hide App - Calculator Icon",
     "icon": "https://phantuanphong.github.io/Products/ic_happ.png",
     "store": "com.phongphan.disableapp.icon"
-  },
-  {
-    "name": "Voice Search (Search By Voice)",
-    "icon": "https://phantuanphong.github.io/Products/ic_voice_search.png",
-    "store": "com.phongphan.voicesearch"
-  },
-  {
-    "name": "Free WIFI hotspot",
-    "icon": "https://phantuanphong.github.io/Products/ic_hotspot.png",
-    "store": "com.phongphan.wifi.hotspot"
   },
   {
     "name": "Hide App",
