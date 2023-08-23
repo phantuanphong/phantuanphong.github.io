@@ -1,8 +1,8 @@
 [
   {
-    "name": "Voice Memo - Note By Voice",
-    "icon": "https://phantuanphong.github.io/Products/ic_voice_memo.png",
-    "store": "com.treeteam.voice.memo"
+    "name": "Big Memo - Note for Seniors",
+    "icon": "https://phantuanphong.github.io/Products/ic_big_memo.png",
+    "store": "com.treeteam.big.memo"
   },
   {
     "name": "TV Connector Util",
