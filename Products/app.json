@@ -1,5 +1,10 @@
 [
   {
+    "name": "Christmas Collection",
+    "icon": "https://phantuanphong.github.io/Products/ic_christmas_collection.png",
+    "store": "com.treeteam.christmas.collection"
+  },
+  {
     "name": "Big Memo - Note for Seniors",
     "icon": "https://phantuanphong.github.io/Products/ic_big_memo.png",
     "store": "com.treeteam.big.memo"
