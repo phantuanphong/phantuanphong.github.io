@@ -1,13 +1,13 @@
 [
   {
-    "name": "Christmas Collection",
-    "icon": "https://phantuanphong.github.io/Products/ic_christmas_collection.png",
-    "store": "com.treeteam.christmas.collection"
+    "name": "Fake GPS Location (Best)",
+    "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
+    "store": "com.phongphan.fakegps"
   },
   {
-    "name": "Big Memo - Note for Seniors",
-    "icon": "https://phantuanphong.github.io/Products/ic_big_memo.png",
-    "store": "com.treeteam.big.memo"
+    "name": "Shake Music - Next Song",
+    "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
+    "store": "com.treeteam.shake"
   },
   {
     "name": "TV Connector Util",
@@ -28,11 +28,6 @@
     "name": "Vibrate app with calculator icon",
     "icon": "https://phantuanphong.github.io/Products/ic_vibrate_calculator.png",
     "store": "com.phongphan.vibrate.calculator"
-  },
-  {
-    "name": "Shake Music Controller",
-    "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
-    "store": "com.treeteam.shake.music"
   },
   {
     "name": "Auto Headphone",
@@ -57,17 +52,12 @@
   {
     "name": "Get APK Tool",
     "icon": "https://phantuanphong.github.io/Products/ic_get_apk_tool.png",
-    "store": "com.treeteam.getapk"
+    "store": "com.phongphan.apkextractor"
   },
   {
     "name": "Sleep Music Timer",
     "icon": "https://phantuanphong.github.io/Products/ic_sleep_timer.png",
     "store": "com.treeteam.sleep.music.timer"
-  },
-  {
-    "name": "Fake GPS Location (Best)",
-    "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
-    "store": "com.phongphan.fakegps"
   },
   {
     "name": "Share Contact",
