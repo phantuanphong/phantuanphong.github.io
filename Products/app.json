@@ -1,5 +1,10 @@
 [
   {
+    "name": "Refresh Rate (Fps)",
+    "icon": "https://phantuanphong.github.io/Products/ic_fps.png",
+    "store": "com.treeteam.refreshrate"
+  },
+  {
     "name": "Fake GPS Location (Best)",
     "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
     "store": "com.phongphan.fakegps"
