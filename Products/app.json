@@ -1,4 +1,8 @@
-[
+[  {
+    "name": "Touch Sampling Rate",
+    "icon": "https://phantuanphong.github.io/Products/ic_touch_sample.png",
+    "store": "com.treeteam.touchsampling"
+  },
   {
     "name": "Refresh Rate (Fps)",
     "icon": "https://phantuanphong.github.io/Products/ic_fps.png",
