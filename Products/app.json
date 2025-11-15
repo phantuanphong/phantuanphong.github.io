@@ -1,36 +1,42 @@
-[  {
-    "name": "Touch Sampling Rate",
-    "icon": "https://phantuanphong.github.io/Products/ic_touch_sample.png",
+[
+  {
+    "name": "Battery Charge Log",
+    "icon": "https://phantuanphong.github.io/Products/ic_battery_charge_log.png",
+    "store": "com.phongphan.battery.manager"
+  },
+  {
+    "name" : "Touch Sampling Rate",
+    "icon" : "https://phantuanphong.github.io/Products/ic_touch_sample.png",
     "store": "com.treeteam.touchsampling"
   },
   {
-    "name": "Refresh Rate (Fps)",
-    "icon": "https://phantuanphong.github.io/Products/ic_fps.png",
+    "name" : "Refresh Rate (Fps)",
+    "icon" : "https://phantuanphong.github.io/Products/ic_fps.png",
     "store": "com.treeteam.refreshrate"
   },
   {
-    "name": "Fake GPS Location (Best)",
-    "icon": "https://phantuanphong.github.io/Products/ic_fake_gps.png",
+    "name" : "Fake GPS Location (Best)",
+    "icon" : "https://phantuanphong.github.io/Products/ic_fake_gps.png",
     "store": "com.phongphan.fakegps"
   },
   {
-    "name": "Shake Music - Next Song",
-    "icon": "https://phantuanphong.github.io/Products/ic_shake_music.png",
+    "name" : "Shake Music - Next Song",
+    "icon" : "https://phantuanphong.github.io/Products/ic_shake_music.png",
     "store": "com.treeteam.shake"
   },
   {
-    "name": "TV Connector Util",
-    "icon": "https://phantuanphong.github.io/Products/ic_tv_utils.png",
+    "name" : "TV Connector Util",
+    "icon" : "https://phantuanphong.github.io/Products/ic_tv_utils.png",
     "store": "com.phongphan.tvconnector.utils"
   },
   {
-    "name": "Wireless Charging Checker",
-    "icon": "https://phantuanphong.github.io/Products/ic_wireless_charge.png",
+    "name" : "Wireless Charging Checker",
+    "icon" : "https://phantuanphong.github.io/Products/ic_wireless_charge.png",
     "store": "com.phongphan.wireless.charger.checker"
   },
   {
-    "name": "MHL Checker",
-    "icon": "https://phantuanphong.github.io/Products/ic_mhl_checker.png",
+    "name" : "MHL Checker",
+    "icon" : "https://phantuanphong.github.io/Products/ic_mhl_checker.png",
     "store": "com.phongphan.mhl.checker"
   },
   {
@@ -39,8 +45,8 @@
     "store": "com.phongphan.vibrate.calculator"
   },
   {
-    "name": "Auto Headphone",
-    "icon": "https://phantuanphong.github.io/Products/ic_auto_headphone.png",
+    "name" : "Auto Headphone",
+    "icon" : "https://phantuanphong.github.io/Products/ic_auto_headphone.png",
     "store": "com.treeteam.auto.headphone"
   },
   {
@@ -50,32 +56,32 @@
   },
   {
     "store": "com.treeteam.ntp.time",
-    "icon": "https://phantuanphong.github.io/Products/ic_ntp_time.png",
-    "name": "NTP Time - Internet Time"
+    "icon" : "https://phantuanphong.github.io/Products/ic_ntp_time.png",
+    "name" : "NTP Time - Internet Time"
   },
   {
-    "name": "USB OTG Checker - Check USB OTG",
-    "icon": "https://phantuanphong.github.io/Products/ic_otg_checker.png",
+    "name" : "USB OTG Checker - Check USB OTG",
+    "icon" : "https://phantuanphong.github.io/Products/ic_otg_checker.png",
     "store": "com.treeteam.otgchecker"
   },
   {
-    "name": "Get APK Tool",
-    "icon": "https://phantuanphong.github.io/Products/ic_get_apk_tool.png",
+    "name" : "Get APK Tool",
+    "icon" : "https://phantuanphong.github.io/Products/ic_get_apk_tool.png",
     "store": "com.phongphan.apkextractor"
   },
   {
-    "name": "Sleep Music Timer",
-    "icon": "https://phantuanphong.github.io/Products/ic_sleep_timer.png",
+    "name" : "Sleep Music Timer",
+    "icon" : "https://phantuanphong.github.io/Products/ic_sleep_timer.png",
     "store": "com.treeteam.sleep.music.timer"
   },
   {
-    "name": "Share Contact",
-    "icon": "https://phantuanphong.github.io/Products/ic_share_contact.png",
+    "name" : "Share Contact",
+    "icon" : "https://phantuanphong.github.io/Products/ic_share_contact.png",
     "store": "com.treeteam.share.contact"
   },
   {
-    "name": "Auto Start Manager",
-    "icon": "https://phantuanphong.github.io/Products/ic_auto_start.png",
+    "name" : "Auto Start Manager",
+    "icon" : "https://phantuanphong.github.io/Products/ic_auto_start.png",
     "store": "com.phongphan.auto.start.manager"
   },
   {
@@ -84,13 +90,13 @@
     "store": "com.treeteam.usb.tethering"
   },
   {
-    "name": "Hide App - Calculator Icon",
-    "icon": "https://phantuanphong.github.io/Products/ic_happ.png",
+    "name" : "Hide App - Calculator Icon",
+    "icon" : "https://phantuanphong.github.io/Products/ic_happ.png",
     "store": "com.phongphan.disableapp.icon"
   },
   {
-    "name": "Hide App",
-    "icon": "https://phantuanphong.github.io/Products/ic_dissableApp.png",
+    "name" : "Hide App",
+    "icon" : "https://phantuanphong.github.io/Products/ic_dissableApp.png",
     "store": "com.phongphan.disableapp"
   },
   {
@@ -99,8 +105,8 @@
     "store": "com.ngoanrazor.recoverwifipassword"
   },
   {
-    "name": "Calibration sensors",
-    "icon": "https://phantuanphong.github.io/Products/ic_calibration.png",
+    "name" : "Calibration sensors",
+    "icon" : "https://phantuanphong.github.io/Products/ic_calibration.png",
     "store": "com.phongphan.calibration"
   }
 ]
