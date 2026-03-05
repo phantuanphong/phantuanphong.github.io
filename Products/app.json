@@ -1,5 +1,10 @@
 [
   {
+    "name": "Trust Checker",
+    "icon": "https://phantuanphong.github.io/Products/ic_trust_checker.png",
+    "store": "com.treeteam.trust.checker"
+  },
+  {
     "name": "Battery Charge Log",
     "icon": "https://phantuanphong.github.io/Products/ic_battery_charge_log.png",
     "store": "com.phongphan.battery.manager"
@@ -48,11 +53,6 @@
     "name" : "Auto Headphone",
     "icon" : "https://phantuanphong.github.io/Products/ic_auto_headphone.png",
     "store": "com.treeteam.auto.headphone"
-  },
-  {
-    "store": "com.treeteam.bluetooth.scanner",
-    "icon": "https://phantuanphong.github.io/Products/ic_bluetooth_scanner.png",
-    "name": "Bluetooth Scanner"
   },
   {
     "store": "com.treeteam.ntp.time",
