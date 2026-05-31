@@ -65,11 +65,6 @@
     "store": "com.treeteam.otgchecker"
   },
   {
-    "name" : "Get APK Tool",
-    "icon" : "https://phantuanphong.github.io/Products/ic_get_apk_tool.png",
-    "store": "com.phongphan.apkextractor"
-  },
-  {
     "name" : "Sleep Music Timer",
     "icon" : "https://phantuanphong.github.io/Products/ic_sleep_timer.png",
     "store": "com.treeteam.sleep.music.timer"
