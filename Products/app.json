@@ -1,5 +1,10 @@
 [
   {
+    "name": "Media Vault: Hide Photo, Video",
+    "icon": "https://phantuanphong.github.io/Products/ic_mediavault.png",
+    "store": "com.treeteam.mediavault"
+  },
+  {
     "name": "Trust Checker",
     "icon": "https://phantuanphong.github.io/Products/ic_trust_checker.png",
     "store": "com.treeteam.trust.checker"
