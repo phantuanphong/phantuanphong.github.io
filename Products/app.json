@@ -1,8 +1,8 @@
 [
   {
-    "name": "Media Vault: Hide Photo, Video",
-    "icon": "https://phantuanphong.github.io/Products/ic_mediavault.png",
-    "store": "com.treeteam.mediavault"
+    "name": "Touch Latency Test",
+    "icon": "https://phantuanphong.github.io/Products/ic_touch_latency.png",
+    "store": "com.treeteam.touch.latency"
   },
   {
     "name": "Trust Checker",
