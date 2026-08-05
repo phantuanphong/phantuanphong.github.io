@@ -1,5 +1,10 @@
 [
   {
+    "name": "Who Is On My WiFi",
+    "icon": "https://phantuanphong.github.io/Products/ic_whoisonmywifi.png",
+    "store": "com.treeteam.whoisonmywifi"
+  },
+  {
     "name": "Touch Latency Test",
     "icon": "https://phantuanphong.github.io/Products/ic_touch_latency.png",
     "store": "com.treeteam.touch.latency"
