@@ -1,5 +1,10 @@
 [
   {
+    "name": "Cast Anything: TV Cast",
+    "icon": "https://phantuanphong.github.io/Products/ic_anycast.png",
+    "store": "com.treeteam.castanything"
+  },
+  {
     "name": "Who Is On My WiFi",
     "icon": "https://phantuanphong.github.io/Products/ic_whoisonmywifi.png",
     "store": "com.treeteam.whoisonmywifi"
